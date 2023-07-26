@@ -399,3 +399,20 @@ input[type="submit"] {
     width: 80%;
   }
 }
+
+footer {
+  background-color: black;
+  color: white;
+  height: 50px;
+  padding-top: 5px;
+}
+
+footer ul li {
+  list-style: none;
+  font-size: 0.8em;
+}
+
+footer ul {
+  display: flex;
+  justify-content: space-evenly;
+}
