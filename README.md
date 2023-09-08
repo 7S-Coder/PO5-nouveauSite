@@ -41,7 +41,7 @@ Ce projet est le portfolio en ligne de Nina Carducci, une photographe basée à 
 
 ## Comment voir le rendu hébergé
 
-1. suivez ce lien github pages https://jonathancornic.github.io/Portfolio-nina-carducci/](https://github.com/7S-Coder/Portfolio-Nina-Carducci.git
+1. suivez ce lien github pages https://github.com/7S-Coder/Portfolio-Nina-Carducci.git
 
 ## Autre compétences travaillés
 1. Rédaction d'un rapport d'intervention.
